@@ -21,7 +21,7 @@ class Login extends Component{
         dispatch(setAuthedUser(value))
 
         //Navigate to the last entered URL after clicking login
-        this.props.history.push(this.props.match.params)
+        this.props.history.push('/')//this.props.match.params
     }
 
     render() {

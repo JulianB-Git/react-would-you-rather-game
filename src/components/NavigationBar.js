@@ -20,7 +20,7 @@ class NavigationBar extends Component{
 
             <Navbar bg='primary' variant='dark' expand='lg'>
                 <Container>
-                    <Navbar.Brand href='/'>Would You Rather</Navbar.Brand>
+                    <Navbar.Brand>Would You Rather</Navbar.Brand>
                     <Navbar.Toggle aria-controls='basic-navbar-nav' />
                     <Navbar.Collapse id='basic-navbar-nav'>
                         <Nav className='me-auto'>
