@@ -1,5 +1,5 @@
 import React, { Component, Fragment } from 'react'
-import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
+import { HashRouter as Router, Route, Switch } from "react-router-dom";
 import { connect } from "react-redux";
 import { handleInitialUsers } from "../actions/users";
 import Login from "./Login";
@@ -19,7 +19,7 @@ class App extends Component {
 
     render() {
         return (
-            <Router basename={this.props.baseUrl}>
+            <Router >
                 <Fragment>
                     <LoadingBar/>
                     <div>
@@ -48,8 +48,7 @@ class App extends Component {
 
 function mapStateToProps({ authedUser }) {
     return {
-        authedUser,
-        baseUrl: window.location.pathname
+        authedUser
     }
 }
 
