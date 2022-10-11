@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/react-would-you-rather-game/static/css/main.a6d69203.chunk.css",
-    "main.js": "/react-would-you-rather-game/static/js/main.52fae722.chunk.js",
-    "main.js.map": "/react-would-you-rather-game/static/js/main.52fae722.chunk.js.map",
+    "main.js": "/react-would-you-rather-game/static/js/main.b120884a.chunk.js",
+    "main.js.map": "/react-would-you-rather-game/static/js/main.b120884a.chunk.js.map",
     "runtime-main.js": "/react-would-you-rather-game/static/js/runtime-main.234ce107.js",
     "runtime-main.js.map": "/react-would-you-rather-game/static/js/runtime-main.234ce107.js.map",
     "static/css/2.54248aa1.chunk.css": "/react-would-you-rather-game/static/css/2.54248aa1.chunk.css",
-    "static/js/2.65160096.chunk.js": "/react-would-you-rather-game/static/js/2.65160096.chunk.js",
-    "static/js/2.65160096.chunk.js.map": "/react-would-you-rather-game/static/js/2.65160096.chunk.js.map",
+    "static/js/2.261ef3c2.chunk.js": "/react-would-you-rather-game/static/js/2.261ef3c2.chunk.js",
+    "static/js/2.261ef3c2.chunk.js.map": "/react-would-you-rather-game/static/js/2.261ef3c2.chunk.js.map",
     "index.html": "/react-would-you-rather-game/index.html",
     "static/css/2.54248aa1.chunk.css.map": "/react-would-you-rather-game/static/css/2.54248aa1.chunk.css.map",
     "static/css/main.a6d69203.chunk.css.map": "/react-would-you-rather-game/static/css/main.a6d69203.chunk.css.map",
-    "static/js/2.65160096.chunk.js.LICENSE.txt": "/react-would-you-rather-game/static/js/2.65160096.chunk.js.LICENSE.txt"
+    "static/js/2.261ef3c2.chunk.js.LICENSE.txt": "/react-would-you-rather-game/static/js/2.261ef3c2.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.234ce107.js",
     "static/css/2.54248aa1.chunk.css",
-    "static/js/2.65160096.chunk.js",
+    "static/js/2.261ef3c2.chunk.js",
     "static/css/main.a6d69203.chunk.css",
-    "static/js/main.52fae722.chunk.js"
+    "static/js/main.b120884a.chunk.js"
   ]
 }
