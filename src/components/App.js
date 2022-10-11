@@ -19,7 +19,7 @@ class App extends Component {
 
     render() {
         return (
-            <Router>
+            <Router basename={this.props.baseUrl}>
                 <Fragment>
                     <LoadingBar/>
                     <div>
@@ -48,7 +48,8 @@ class App extends Component {
 
 function mapStateToProps({ authedUser }) {
     return {
-        authedUser
+        authedUser,
+        baseUrl: window.location.pathname
     }
 }
 
